@@ -1,0 +1,7 @@
+name: crosswordInsights
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: AWS infrastructure for extracting, storing, and presenting data related
+  to crossword solve times.
